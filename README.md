@@ -12,6 +12,7 @@ Now regarding where to make what changes --->
 
 For youtube video watching using terminal we need mpv , yt-dlp to be installed first and intel media drivers package should be named as intel-media-driver and some other packages include libva and libva-utils as named with mesa / mesa-va-drivers which provide user-space graphics support .Here libva-utils is for debugging via vainfo and libva is the core video accelaration API library here .
 Installation may depend based on distro like 
+
 For Debian ---->
 -------------------------
 
