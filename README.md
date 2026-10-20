@@ -1,4 +1,5 @@
 # BatteryAndYoutubeConfig
+  -----------------------
 
 These are config files for battery using tlp which is meant to work in  arch/debian/void or any other minimial setup distro out of the box for 12 amd 13th gen i3/i5/i7 processors with igpu this doesn't contain controls for external gpu's but h series processors of the i5 and i7 will work especially h series processor laptops with igpu's thin and light series ones like the hp pavillion/omnibook or acer aspire / asus vivobook series as examples ... 
 
