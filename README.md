@@ -14,10 +14,15 @@ For youtube video watching using terminal we need mpv , yt-dlp to be installed f
 Installation may depend based on distro like 
 For Debian ---->
 -------------------------
+
   sudo apt update && sudo apt install mpv yt-dlp intel-media-va-driver libva2 libva-utils mesa-va-drivers
+  
 For Arch  ------>
 -------------------------
+
   sudo pacman -Syu intel-media-driver libva-utils libva-mesa-driver mpv yt-dlp
+  
  For Void ------->
  ------------------------
+ 
    sudo xbps-install -S intel-media-driver libva-utils mesa-vaapi mpv yt-dlp
